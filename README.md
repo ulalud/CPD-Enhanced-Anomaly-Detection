@@ -28,7 +28,8 @@ The notebook compares different approaches using synthetic datasets as well as a
 - This suggests that change point detection helps isolate underlying trends, allowing anomaly detection methods to focus on smaller-magnitude anomalies.  
 
 ## Requirements
-To run the notebook, install the following dependencies:
+To run the notebook, you need an R installation for the R-FPOP part of the notebook. Install the following dependencies:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn scipy ruptures rpy2
+
